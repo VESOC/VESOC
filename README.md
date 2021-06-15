@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Coder38611
+#### I am interested in Python, JavaScript, Go, Flutter, Blockchain, and DS
+I wish to travel the world and meet new people and learn different things, meanwhile I'm a high-schooler in South Korea
 
-<!--
-**coder38611/coder38611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: **NEXT.JS** - **PYTHON** - **JAVASCRIPT** - **FLUTTER** - **C/C++**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ***Next.JS Markdown Blog ***
+- 🌱 I’m currently learning ***Go*** 
+- 📫 How to reach me: coder38611@protonmail.com | [Blog](https://coder38611.tistory.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coder38611)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=coder38611&show_icons=true)  
