@@ -4,7 +4,7 @@ I wish to travel the world and meet new people and learn different things, meanw
 
 Skills: **NODE.JS** - **PYTHON** - **JAVASCRIPT** - **FLUTTER** - **C/C++**
 
-- 🔭 I’m currently working on ***Next.JS Markdown Blog ***
+- 🔭 I’m currently working on ***Next.JS Markdown Blog***
 - 🌱 I’m currently learning ***Go*** 
 - 📫 How to reach me: coder38611@protonmail.com | [Blog](https://coder38611.tistory.com)
 
