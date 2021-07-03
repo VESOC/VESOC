@@ -1,8 +1,8 @@
-### Hi there 👋, I am Coder38611
+### Hi, I'm Coder38611
 #### I am interested in Python, JavaScript, Go, Flutter, Blockchain, and DS
 I wish to travel the world and meet new people and learn different things, meanwhile I'm a high-schooler in South Korea
 
-Skills: **NEXT.JS** - **PYTHON** - **JAVASCRIPT** - **FLUTTER** - **C/C++**
+Skills: **NODE.JS** - **PYTHON** - **JAVASCRIPT** - **FLUTTER** - **C/C++**
 
 - 🔭 I’m currently working on ***Next.JS Markdown Blog ***
 - 🌱 I’m currently learning ***Go*** 
