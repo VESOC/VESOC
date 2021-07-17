@@ -1,6 +1,6 @@
 ### Hi, I'm Coder38611
 #### I am interested in Python, JavaScript, Go, Flutter, Blockchain, and DS
-I wish to travel the world and meet new people and learn different things, meanwhile I'm a high-schooler in South Korea
+I wish to travel the world and meet new people and learn different things. Meanwhile, I'm a high-schooler in South Korea
 
 Skills: **NODE.JS** - **PYTHON** - **JAVASCRIPT** - **FLUTTER** - **C/C++**
 
