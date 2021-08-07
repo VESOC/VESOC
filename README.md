@@ -6,9 +6,6 @@ Skills: **NODE.JS** - **PYTHON** - **JAVASCRIPT** - **FLUTTER** - **C/C++**
 
 - 🔭 I’m currently working on ***Next.JS Markdown Blog***
 - 🌱 I’m currently learning ***Go*** 
-- 📫 How to reach me: coder38611@protonmail.com | [Blog](https://coder38611.tistory.com)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coder38611)
+- 📫 How to reach me: coder38611@protonmail.com | [Blog](https://coder38611.tistory.com]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coder38611&show_icons=true)  
