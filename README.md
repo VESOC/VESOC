@@ -6,6 +6,6 @@ Skills: **NODE.JS** - **PYTHON** - **JAVASCRIPT** - **FLUTTER** - **C/C++**
 
 - 🔭 I’m currently working on ***Next.JS Markdown Blog***
 - 🌱 I’m currently learning ***Go*** 
-- 📫 How to reach me: coder38611@protonmail.com | [Blog](https://coder38611.tistory.com]
+- 📫 How to reach me: coder38611@protonmail.com | [Blog](https://coder38611.tistory.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vesoc&show_icons=true)  
