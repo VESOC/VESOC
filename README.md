@@ -5,7 +5,7 @@ I wish to travel the world and meet new people and learn different things. Meanw
 Skills: **NODE.JS** - **PYTHON** - **JAVASCRIPT** - **FLUTTER** - **C/C++**
 
 - 🔭 I’m currently working on ***Next.JS Markdown Blog***
-- 🌱 I’m currently learning ***Go*** 
+- 🌱 I’m currently learning ***Go*** & ***Elixir***
 - 📫 How to reach me: contact@vesoc.dev | [Blog](https://coder38611.tistory.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vesoc&show_icons=true)  
